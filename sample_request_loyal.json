@@ -1,0 +1,21 @@
+{
+  "gender": "Female",
+  "SeniorCitizen": 0,
+  "Partner": "Yes",
+  "Dependents": "Yes",
+  "tenure": 65,
+  "PhoneService": "Yes",
+  "MultipleLines": "No",
+  "InternetService": "DSL",
+  "OnlineSecurity": "Yes",
+  "OnlineBackup": "Yes",
+  "DeviceProtection": "Yes",
+  "TechSupport": "Yes",
+  "StreamingTV": "No",
+  "StreamingMovies": "No",
+  "Contract": "Two year",
+  "PaperlessBilling": "No",
+  "PaymentMethod": "Credit card (automatic)",
+  "MonthlyCharges": 55.20,
+  "TotalCharges": 3588.00
+}
